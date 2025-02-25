@@ -2,12 +2,12 @@
 
 ![alt text](ramon-1.png)
 
-Nacionalidad: Paraguaya e Italiana
-Dirección: Kennedy 510 entre Cerro Corá y Azara
-Ciudad: Asunción
-☎: (+595)984289724
-: erreinsa@gmail.com
-: linkedin.com/in/erreinsa
+- Nacionalidad: Paraguaya e Italiana
+- Dirección: Kennedy 510 entre Cerro Corá y Azara
+- Ciudad: Asunción
+- ☎: (+595)984289724
+- @: erreinsa@gmail.com
+- in: linkedin.com/in/erreinsa
 
 ## Perfil Profesional
 
