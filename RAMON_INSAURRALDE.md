@@ -5,7 +5,7 @@
 - Nacionalidad: Paraguaya e Italiana
 - Dirección: Kennedy 510 entre Cerro Corá y Azara
 - Ciudad: Asunción
-- ☎: (+595)984289724
+- ☎: (+595)982658189
 - @: erreinsa@gmail.com
 - in: linkedin.com/in/erreinsa
 
