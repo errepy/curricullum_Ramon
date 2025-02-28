@@ -1,6 +1,6 @@
 # Ramón Rodolfo Insaurralde Laneri
 
-![alt text](ramon-1.png)
+![alt text](ramon-1.png){width=200 height=150}
 
 - Nacionalidad: Paraguaya e Italiana
 - Dirección: Kennedy 510 entre Cerro Corá y Azara
